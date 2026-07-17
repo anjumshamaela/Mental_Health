@@ -26,7 +26,7 @@ const MobileFooter = () => {
 
         <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', mb: 1 }}>
           <Link
-            href="https://github.com/vivekbarnaon/Mind-recommend"
+            href="https://github.com/anjumshamaela/Mental_Health"
             target="_blank"
             rel="noopener noreferrer"
             sx={{

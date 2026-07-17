@@ -492,7 +492,7 @@ const WelcomePage = ({ onGetStarted }) => {
           }}
         >
           <Link
-            href="https://github.com/vivekbarnaon/Mind-recommend"
+            href="https://github.com/anjumshamaela/Mental_Health"
             target="_blank"
             rel="noopener noreferrer"
             className="welcome-footer-link"

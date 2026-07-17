@@ -12,4 +12,4 @@ services:
       - key: FRONTEND_URL
         value: https://mind-recommend.vercel.app
       - key: PYTHON_VERSION
-        value: 3.8.17
+        value: 3.11.9

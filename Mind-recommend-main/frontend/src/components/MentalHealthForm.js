@@ -15,10 +15,10 @@ import {
 import axios from 'axios';
 
 // API URL for backend connection
-const API_URL = 'https://mind-recommend-1.onrender.com';
+const API_URL = 'https://mental-health-backend-fmos.onrender.com';
 
 // Backup API URL in case the primary one fails - using the same URL with a different timeout
-const BACKUP_API_URL = 'https://mind-recommend-1.onrender.com';
+const BACKUP_API_URL = 'https://mental-health-backend-fmos.onrender.com';
 
 const MentalHealthForm = ({ setResult, setFormData: setParentFormData }) => {
   const [formData, setFormData] = useState({

@@ -57,7 +57,7 @@ const Footer = () => {
 
         <Box sx={{ mt: 2, display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           <Link
-            href="https://github.com/vivekbarnaon/Mind-recommend"
+            href="https://github.com/anjumshamaela/Mental_Health"
             target="_blank"
             rel="noopener noreferrer"
             sx={{

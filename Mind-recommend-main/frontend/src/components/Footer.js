@@ -1,11 +1,10 @@
 import React from 'react';
-import { Box, Typography, Link, Container, Divider, useTheme } from '@mui/material';
+import { Box, Typography, Link, Container, Divider} from '@mui/material';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import './Footer.css'; // Import custom CSS for footer
 
 const Footer = () => {
-  const theme = useTheme();
 
   return (
     <footer className="app-footer">
